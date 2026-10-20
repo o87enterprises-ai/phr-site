@@ -1,13 +1,21 @@
 import type { Metadata } from "next";
-import { Playfair_Display, Inter } from "next/font/google";
+import { Inter, Inter_Tight, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navigation/Navbar";
 import Footer from "@/components/layout/Footer";
 import EmergencyCTA from "@/components/layout/EmergencyCTA";
 
-const playfair = Playfair_Display({
+const interTight = Inter_Tight({
   subsets: ["latin"],
-  variable: "--font-playfair",
+  variable: "--font-inter-tight",
+  display: "swap",
+});
+
+const instrument = Instrument_Serif({
+  subsets: ["latin"],
+  weight: "400",
+  style: ["normal", "italic"],
+  variable: "--font-instrument",
   display: "swap",
 });
 
@@ -47,7 +55,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport = {
-  themeColor: "#1B3328",
+  themeColor: "#0A0907",
 };
 
 const jsonLd = {
@@ -78,7 +86,7 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-US" className={`${playfair.variable} ${inter.variable}`}>
+    <html lang="en-US" className={`${interTight.variable} ${instrument.variable} ${inter.variable}`}>
       <head>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </head>

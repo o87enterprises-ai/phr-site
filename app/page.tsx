@@ -1,5 +1,4 @@
 import Hero from "@/components/hero/Hero";
-import TrustBar from "@/components/sections/TrustBar";
 import Services from "@/components/sections/Services";
 import QuoteCalculator from "@/components/sections/QuoteCalculator";
 import HowItWorks from "@/components/sections/HowItWorks";
@@ -12,7 +11,6 @@ export default function HomePage() {
   return (
     <>
       <Hero />
-      <TrustBar />
       <Services />
       <QuoteCalculator />
       <HowItWorks />
