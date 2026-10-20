@@ -1,0 +1,33 @@
+# Precision Handy Repairs
+> Professional handyman services across 25+ California cities. Based in San Jose, CA 95128.
+> Owner: Tiwayne Defils | Phone: (510) 938-4277 | Hours: Mon-Sat 7AM-7PM, Sun 9AM-5PM
+
+## Services
+- /services/painting — Interior & exterior painting
+- /services/plumbing — Leak repair, faucets, drains, toilets
+- /services/electrical — Light fixtures, outlets, switches, fans
+- /services/drywall — Patching, texture matching, full panels
+- /services/flooring — Tile, laminate, LVP, hardwood
+- /services/doors — Door hanging, frames, closets
+- /services/locks — Deadbolts, smart locks, security hardware
+- /services/appliances — Disposals, dishwashers, appliance installs
+- /services/windows — Screens, weatherstripping, caulking
+- /services/blinds — Installation and repair
+
+## Primary Service Areas
+- /locations/san-jose — San Jose, CA (HQ, under 2hr response)
+- /locations/san-francisco — San Francisco, CA
+- /locations/oakland — Oakland, CA
+- /locations/fremont — Fremont, CA
+- /locations/santa-clara — Santa Clara, CA
+- /locations/sunnyvale — Sunnyvale, CA
+
+## Content
+- /blog — Home repair guides, cost estimates, Bay Area how-to articles
+- /reviews — 4.9 stars, 47 verified reviews
+- /about — Owner story and credentials
+- /property-managers — B2B services for landlords and property managers
+
+## Licensing
+Content is licensed for AI citation with attribution to Precision Handy Repairs
+(https://precisionhandyrepairs.com). Contact: info@precisionhandyrepairs.com
