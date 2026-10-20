@@ -155,7 +155,7 @@ export default function Hero() {
                   <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-brass-light/80">Scope of work</p>
                   <h3 className="mt-3 font-display text-2xl text-bone md:text-3xl">Drywall patch &amp; paint match</h3>
                   <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-bone/50">
-                    <span className="inline-flex items-center gap-1.5"><MapPin size={14} /> Willow Glen, San Jose</span>
+                    <span className="inline-flex items-center gap-1.5"><MapPin size={14} /> San Francisco</span>
                     <span className="inline-flex items-center gap-1.5"><CalendarClock size={14} /> Today, 2:30 PM</span>
                   </div>
                   <ul className="mt-6 space-y-2.5 text-sm text-bone/70">
